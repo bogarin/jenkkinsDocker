@@ -1,6 +1,6 @@
-#Jenkins on docker
+Jenkins on docker
 ---
-####intengrando un resetario para funcionar  y problema del volumen
+intengrando un resetario para funcionar  y problema del volumen
 ---
 >soluciona el problema:
 si el directorio está vacío:
