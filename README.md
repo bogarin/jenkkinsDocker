@@ -9,4 +9,4 @@ sudo chown 1000 volume_dir
 >Si el directorio ya contiene archivos:
 sudo chown -R 1000 volume_dir
 ---
-para la instalación [docker y docker compose](URL "https://www.digitalocean.com/community/tutorials/como-instalar-y-usar-docker-en-ubuntu-16-04-es")
+para la instalación [docker y docker compose](https://www.digitalocean.com/community/tutorials/como-instalar-y-usar-docker-en-ubuntu-16-04-es)
